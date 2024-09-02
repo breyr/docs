@@ -4,7 +4,9 @@
 
 ## Core Concepts
 
-* [Page 1](core-concepts/page-1.md)
+* [Kubernetes Architecture](core-concepts/page-1.md)
+* [Docker vs ContainerD](core-concepts/docker-vs-containerd.md)
+* [Pods](core-concepts/pods.md)
 
 ## Configuration
 
